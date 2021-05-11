@@ -20,7 +20,7 @@ Cherbourg,First,23,63.4,1,1,male
 Cherbourg,First,23,113.3,1,1,female
 Cherbourg,First,24,247.5,1,1,
 Cherbourg,First,24,79.2,1,1,male
-Cherbourg,First,24,83.2,1,1,female
+Cherbourg,First,24,83.2,1,5,female
 Cherbourg,First,24,69.3,1,1,female
 Cherbourg,First,24,69.3,1,1,female
 Cherbourg,First,24,49.5,1,1,
@@ -154,7 +154,7 @@ Cherbourg,Third,31,22.4,1,1,female
 Cherbourg,Third,33,7.9,1,1,male
 Cherbourg,Third,33,8.7,1,1,male
 Cherbourg,Third,34,14.5,1,1,male
-Cherbourg,Third,34.5,6.4,1,1,male
+Cherbourg,Third,34.5,6.4,1,4,male
 Cherbourg,Third,35,7.9,1,1,male
 Cherbourg,Third,41,7.2,1,1,male
 Cherbourg,Third,43.4,7.2,1,1,female
@@ -171,7 +171,7 @@ Cherbourg,Third,78,7.2,1,1,male
 Cherbourg,Third,81,7.2,1,1,male
 Queenstown,First,33,91.1,1,1,female
 Queenstown,First,44,91.1,1,2,male
-Queenstown,Second,31,12.4,1,1,female
+Queenstown,Second,31,12.4,1,7,female
 Queenstown,Second,34,12.4,1,1,female
 Queenstown,Second,57,12.4,1,1,male
 Queenstown,Third,1,7.8,1,1,female
@@ -398,7 +398,7 @@ Southampton,Second,18,73.5,1,1,male
 Southampton,Second,18,13.1,2,1,female
 Southampton,Second,18,23.1,1,1,
 Southampton,Second,18,11.5,1,1,male
-Southampton,Second,19,36.8,1,1,male
+Southampton,Second,19,36.8,1,4,male
 Southampton,Second,19,13.1,1,1,male
 Southampton,Second,19,11.5,1,1,
 Southampton,Second,19,11.5,1,1,male
@@ -412,9 +412,9 @@ Southampton,Second,22,29.1,1,1,
 Southampton,Second,23,11.5,1,1,male
 Southampton,Second,23,11.5,1,2,male
 Southampton,Second,23,13.1,1,1,male
-Southampton,Second,23,13.1,1,1,male
-Southampton,Second,23,13.1,1,1,male
-Southampton,Second,24,13.1,1,1,female
+Southampton,Second,23,13.1,1,12,male
+Southampton,Second,23,13.1,1,6,male
+Southampton,Second,24,13.1,1,5,female
 Southampton,Second,24,11.5,1,1,male
 Southampton,Second,24,14.5,2,1,female
 Southampton,Second,24,26.1,1,1,female
@@ -617,7 +617,7 @@ Southampton,Third,19,14.5,1,1,male
 Southampton,Third,19,7.9,1,1,male
 Southampton,Third,19,11.2,1,1,male
 Southampton,Third,19,7.7,1,1,male
-Southampton,Third,19,7.9,1,1,
+Southampton,Third,19,7.9,1,12,
 Southampton,Third,21,8.1,1,1,
 Southampton,Third,21,8.1,1,1,male
 Southampton,Third,21,7.8,1,1,male
@@ -629,7 +629,7 @@ Southampton,Third,21,7.1,1,1,
 Southampton,Third,21,7.9,1,1,m
 Southampton,Third,21,7.8,1,1,male
 Southampton,Third,21,9.8,1,1,female
-Southampton,Third,21,8.7,1,1,female
+Southampton,Third,21,8.7,1,7,female
 Southampton,Third,21,7.8,1,1,male
 Southampton,Third,21,34.4,2,2,female
 Southampton,Third,21,9.5,1,1,male
@@ -796,7 +796,7 @@ Southampton,Third,38,8.7,1,1,male
 Southampton,Third,39,31.3,5,1,male
 Southampton,Third,,,,,
 Southampton,Third,39,7.9,1,1,male
-Southampton,Third,39,31.3,5,1,female
+Southampton,Third,39,331.3,5,1,female
 Southampton,Third,39,24.2,1,1,male
 Southampton,Third,,,,,
 Southampton,Third,41,21.2,2,1,female
@@ -805,11 +805,11 @@ Southampton,Third,41,7.9,1,1,male
 Southampton,Third,41,39.7,5,1,female
 Southampton,Third,41,7.1,1,1,male
 Southampton,Third,41,14.1,1,2,male
-Southampton,Third,41.5,14.5,2,1,male
+Southampton,Third,41.5,114.5,2,1,male
 Southampton,Third,41.5,8.1,1,1,male
-Southampton,Third,41.5,7.9,1,1,male
-Southampton,Third,42,8.4,1,1,male
-Southampton,Third,42,8.7,1,1,male
+Southampton,Third,41.5,117.9,1,1,male
+Southampton,Third,42,318.4,1,1,male
+Southampton,Third,42,218.7,1,4,male
 Southampton,Third,42,7.7,1,1,male
 Southampton,Third,42,7.6,1,1,male
 Southampton,Third,43,8.1,1,1,male
